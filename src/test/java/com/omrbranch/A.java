@@ -26,7 +26,20 @@ public void method5()
 	
 }
 public void method6()
+
 {
 	
+}
+public void tamil()
+{
+	
+}
+public void english()
+{
+	
+}
+public void hindi()
+{
+
 }
 }
