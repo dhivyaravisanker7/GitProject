@@ -17,4 +17,16 @@ public void method3()
 	
 	
 }
+public void tamil()
+{
+	
+}
+public void english()
+{
+	
+}
+public void hindi()
+{
+	
+}
 }
